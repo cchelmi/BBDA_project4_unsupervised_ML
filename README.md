@@ -1,4 +1,4 @@
-# BBDA_project4_unsupervised_ML
+# BBDA_project4_unsupervised_ML_Customer behaviours on credit card data
 
 This is project 4 conducted for Big Blue Data Academy.
 
